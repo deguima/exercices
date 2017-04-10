@@ -18,6 +18,7 @@ input{
     border: yellow;
     border-radius: 2em;
     cursor: pointer;
+    color: darkred;
     
 }
 
