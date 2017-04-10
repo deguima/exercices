@@ -1,3 +1,30 @@
-*{
-    border: 1px solid red;
+body{
+    background-color: darkred;
+}
+
+form{
+    background-color: darkred;
+    border-color: darkred;
+    color: #fff;
+    position: relative;
+    max-width: 75px;
+    padding: 25px;
+
+}
+
+input{
+    background-color: yellow;
+    border: yellow;
+    border-radius: 2em;
+    cursor: pointer;
+    
+}
+
+input:hover{ background-color: darkred;
+            color: yellow;
+}
+
+p{
+    color: yellow;
+    
 }
