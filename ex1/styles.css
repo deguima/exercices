@@ -1,32 +1,30 @@
-body{
+body {
     background-color: darkred;
- padding-left:75px;
+    padding-left: 75px;
 }
 
-form{
+form {
     background-color: darkred;
     border-color: darkred;
     color: #fff;
     position: relative;
     max-width: 75px;
     padding: 25px;
-
 }
 
-input{
+input {
     background-color: yellow;
     border: yellow;
     border-radius: 2em;
     cursor: pointer;
     color: darkred;
-    
 }
 
-input:hover{ background-color: darkred;
-            color: yellow;
-}
-
-p{
+input:hover {
+    background-color: darkred;
     color: yellow;
-    
+}
+
+p {
+    color: yellow;
 }
